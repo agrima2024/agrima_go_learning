@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is your name?",
+    "type": "text"
+  },
+  {
+    "question": "What is your favorite color?",
+    "type": "radio",
+    "options": ["Red", "Green", "Blue"]
+  },
+  // ... more questions
+]
